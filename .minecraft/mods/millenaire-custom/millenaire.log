@@ -1,0 +1,1540 @@
+7.2.1 13-07-2019 10:24:26 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 10:25:39 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 10:25:40 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 10:30:07 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 10:31:17 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 10:31:18 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 15:15:31 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 15:16:12 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 15:16:13 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 15:20:42 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 15:21:22 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 15:21:23 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 15:27:20 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 15:28:02 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 15:28:02 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 15:40:14 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 15:41:20 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 15:41:21 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 15:45:23 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 15:46:06 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 15:46:07 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 16:13:52 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 16:14:33 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 16:14:34 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 16:54:47 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 16:55:29 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 16:55:30 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-07-2019 17:14:31 Exception when finding JPS path:
+7.2.1 13-07-2019 17:14:31 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at -257/-472.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 13-07-2019 20:22:59 Starting new session. Mods: examplemod 
+7.2.1 13-07-2019 20:23:41 MAJOR: null: Loading language: en_us
+7.2.1 13-07-2019 20:23:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-07-2019 18:38:11 Starting new session. Mods: examplemod 
+7.2.1 15-07-2019 18:38:52 MAJOR: null: Loading language: en_us
+7.2.1 15-07-2019 18:38:53 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 16-07-2019 10:17:12 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@7b6cc162: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@75ab21a7
+7.2.1 16-07-2019 18:55:01 Starting new session. Mods: examplemod 
+7.2.1 16-07-2019 18:55:45 MAJOR: null: Loading language: en_us
+7.2.1 16-07-2019 18:55:46 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 17-07-2019 09:51:45 Starting new session. Mods: examplemod 
+7.2.1 17-07-2019 09:52:26 MAJOR: null: Loading language: en_us
+7.2.1 17-07-2019 09:52:27 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 17-07-2019 18:27:15 Starting new session. Mods: examplemod 
+7.2.1 17-07-2019 18:28:07 MAJOR: null: Loading language: en_us
+7.2.1 17-07-2019 18:28:08 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-08-2019 08:40:47 Starting new session. Mods: examplemod 
+7.2.1 02-08-2019 08:41:49 MAJOR: null: Loading language: en_us
+7.2.1 02-08-2019 08:41:51 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-08-2019 08:44:15 Error when checking version:
+7.2.1 02-08-2019 08:44:15 java.net.UnknownHostException: millenaire.org
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:206)
+
+7.2.1 02-08-2019 08:50:32 Starting new session. Mods: examplemod 
+7.2.1 02-08-2019 08:51:34 MAJOR: null: Loading language: en_us
+7.2.1 02-08-2019 08:51:36 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-08-2019 08:52:32 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@3e9af451: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@305d1c2a
+7.2.1 02-08-2019 09:30:11 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@73318e48: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@7df66f86
+7.2.1 02-08-2019 09:30:11 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@230aeded: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@2dcd1624
+7.2.1 02-08-2019 09:50:33 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@14cf1c58: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@1a08f169
+7.2.1 03-08-2019 13:30:27 Starting new session. Mods: examplemod 
+7.2.1 03-08-2019 13:31:17 MAJOR: null: Loading language: en_us
+7.2.1 03-08-2019 13:31:18 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-08-2019 15:28:21 Starting new session. Mods: examplemod 
+7.2.1 03-08-2019 15:29:05 MAJOR: null: Loading language: en_us
+7.2.1 03-08-2019 15:29:06 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-08-2019 15:33:52 Exception when finding JPS path:
+7.2.1 03-08-2019 15:33:52 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 39/-355.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 03-08-2019 17:02:01 Starting new session. Mods: examplemod 
+7.2.1 03-08-2019 17:02:48 MAJOR: null: Loading language: en_us
+7.2.1 03-08-2019 17:02:49 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-08-2019 17:53:13 Exception when finding JPS path:
+7.2.1 03-08-2019 17:53:13 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at -125/-595.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 03-08-2019 17:56:21 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@5d0a73b1: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@53cd87b8
+7.2.1 03-08-2019 18:53:10 Starting new session. Mods: examplemod 
+7.2.1 03-08-2019 18:53:58 MAJOR: null: Loading language: en_us
+7.2.1 03-08-2019 18:53:59 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-08-2019 19:01:53 Exception when finding JPS path:
+7.2.1 03-08-2019 19:01:53 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 45/-359.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 03-08-2019 19:06:23 Exception when finding JPS path:
+7.2.1 03-08-2019 19:06:23 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 187/-437.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 17:20:11 Starting new session. Mods: examplemod 
+7.2.1 04-08-2019 17:21:38 MAJOR: null: Loading language: en_us
+7.2.1 04-08-2019 17:21:40 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-08-2019 17:24:58 Exception when finding JPS path:
+7.2.1 04-08-2019 17:24:58 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 31/-338.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 17:24:58 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@30f8ccd6: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@3e3f2561
+7.2.1 04-08-2019 17:38:51 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@2acdf5a8: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@240a1f59
+7.2.1 04-08-2019 17:39:36 Exception when finding JPS path:
+7.2.1 04-08-2019 17:39:36 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 44/-353.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 17:39:36 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@228aeda6: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@2c4d165f
+7.2.1 04-08-2019 17:39:36 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@4300e31a: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@4dc714d2
+7.2.1 04-08-2019 17:41:51 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@a7d5a09: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@240a1f59
+7.2.1 04-08-2019 17:43:41 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@6ef0935c: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@6037712a
+7.2.1 04-08-2019 17:55:33 Starting new session. Mods: examplemod 
+7.2.1 04-08-2019 17:56:18 MAJOR: null: Loading language: en_us
+7.2.1 04-08-2019 17:56:19 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-08-2019 17:59:03 Exception when finding JPS path:
+7.2.1 04-08-2019 17:59:03 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 45/-359.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 17:59:03 Exception when finding JPS path:
+7.2.1 04-08-2019 17:59:03 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 45/-359.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 17:59:03 Exception when finding JPS path:
+7.2.1 04-08-2019 17:59:03 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 45/-359.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 17:59:03 Exception when finding JPS path:
+7.2.1 04-08-2019 17:59:03 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 23/-347.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 17:59:03 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@2d5b6f98: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@239c859b
+7.2.1 04-08-2019 18:02:49 Exception when finding JPS path:
+7.2.1 04-08-2019 18:02:49 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 39/-384.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 18:02:49 Exception when finding JPS path:
+7.2.1 04-08-2019 18:02:49 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@6c6665a3: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@2964eeeb
+7.2.1 04-08-2019 18:02:49 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 45/-365.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 18:16:10 Exception when finding JPS path:
+7.2.1 04-08-2019 18:16:10 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 39/-355.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 18:38:48 Starting new session. Mods: examplemod 
+7.2.1 04-08-2019 18:39:36 MAJOR: null: Loading language: en_us
+7.2.1 04-08-2019 18:39:37 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-08-2019 18:45:05 Starting new session. Mods: examplemod 
+7.2.1 04-08-2019 18:45:55 MAJOR: null: Loading language: en_us
+7.2.1 04-08-2019 18:45:55 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-08-2019 19:20:16 Exception when finding JPS path:
+7.2.1 04-08-2019 19:20:16 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 45/-360.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 19:20:16 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@691fefbd: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@67d80d36
+7.2.1 04-08-2019 19:22:31 Exception when finding JPS path:
+7.2.1 04-08-2019 19:22:31 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 31/-341.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 20:50:23 Starting new session. Mods: examplemod 
+7.2.1 04-08-2019 20:51:22 MAJOR: null: Loading language: en_us
+7.2.1 04-08-2019 20:51:23 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-08-2019 21:11:13 Starting new session. Mods: examplemod 
+7.2.1 04-08-2019 21:12:04 MAJOR: null: Loading language: en_us
+7.2.1 04-08-2019 21:12:05 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-08-2019 21:17:16 Starting new session. Mods: examplemod 
+7.2.1 04-08-2019 21:18:01 MAJOR: null: Loading language: en_us
+7.2.1 04-08-2019 21:18:02 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-08-2019 21:35:35 MAJOR: (fortbyzantine_A3 at 177/78/-441/2/0/94908974/Acharna/net.optifine.override.WorldServerOF@46e52b3f): Finished ending raid. Records: 31
+7.2.1 04-08-2019 21:40:51 Exception when finding JPS path:
+7.2.1 04-08-2019 21:40:51 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 45/-361.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 21:53:52 Exception when finding JPS path:
+7.2.1 04-08-2019 21:53:52 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 27/-343.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 22:11:47 Exception when finding JPS path:
+7.2.1 04-08-2019 22:11:47 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 45/-365.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 22:11:47 Exception when finding JPS path:
+7.2.1 04-08-2019 22:11:47 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 40/-369.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 04-08-2019 22:11:47 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@37a20cb9: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@3965f5e5
+7.2.1 05-08-2019 20:04:20 Starting new session. Mods: examplemod 
+7.2.1 05-08-2019 20:05:05 MAJOR: null: Loading language: en_us
+7.2.1 05-08-2019 20:05:06 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-08-2019 20:55:12 Starting new session. Mods: examplemod 
+7.2.1 05-08-2019 20:55:57 MAJOR: null: Loading language: en_us
+7.2.1 05-08-2019 20:55:58 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-08-2019 22:15:32 Starting new session. Mods: examplemod 
+7.2.1 05-08-2019 22:16:18 MAJOR: null: Loading language: en_us
+7.2.1 05-08-2019 22:16:19 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-08-2019 22:21:07 MAJOR: (fortbyzantine_A3 at 177/78/-441/2/0/4658628/Acharna/net.optifine.override.WorldServerOF@235c6af6): Finished ending raid. Records: 32
+7.2.1 05-08-2019 22:59:07 Exception when finding JPS path:
+7.2.1 05-08-2019 22:59:07 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 19/-365.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 05-08-2019 22:59:07 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@5e64650c: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@50a38168
+7.2.1 05-08-2019 23:27:57 Starting new session. Mods: examplemod 
+7.2.1 05-08-2019 23:28:48 MAJOR: null: Loading language: en_us
+7.2.1 05-08-2019 23:28:49 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-08-2019 23:37:37 Exception when finding JPS path:
+7.2.1 05-08-2019 23:37:37 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at -129/-642.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 05-08-2019 23:37:37 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@2f1f9a44: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@21d8600f
+7.2.1 07-08-2019 16:58:19 Starting new session. Mods: examplemod 
+7.2.1 07-08-2019 16:59:20 MAJOR: null: Loading language: en_us
+7.2.1 07-08-2019 16:59:22 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 12-08-2019 19:05:00 Starting new session. Mods: examplemod 
+7.2.1 12-08-2019 19:05:48 MAJOR: null: Loading language: en_us
+7.2.1 12-08-2019 19:05:49 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 12-08-2019 19:52:33 Error when checking version:
+7.2.1 12-08-2019 19:52:33 java.net.UnknownHostException: millenaire.org
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:206)
+
+7.2.1 12-08-2019 21:03:29 Starting new session. Mods: examplemod 
+7.2.1 12-08-2019 21:27:41 Starting new session. Mods: examplemod 
+7.2.1 12-08-2019 21:28:33 MAJOR: null: Loading language: en_us
+7.2.1 12-08-2019 21:28:34 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 12-08-2019 23:01:29 MAJOR: (fortbyzantine_A5 at 177/78/-441/2/0/1893593893/Acharna/net.optifine.override.WorldServerOF@2f4c24a3): Finished ending raid. Records: 31
+7.2.1 13-08-2019 00:12:39 Starting new session. Mods: examplemod 
+7.2.1 13-08-2019 00:13:28 MAJOR: null: Loading language: en_us
+7.2.1 13-08-2019 00:13:29 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-08-2019 16:21:02 Starting new session. Mods: examplemod 
+7.2.1 13-08-2019 16:21:50 MAJOR: null: Loading language: en_us
+7.2.1 13-08-2019 16:21:51 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-08-2019 19:23:36 Starting new session. Mods: examplemod 
+7.2.1 13-08-2019 19:24:25 MAJOR: null: Loading language: en_us
+7.2.1 13-08-2019 19:24:26 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-08-2019 21:38:16 Starting new session. Mods: examplemod 
+7.2.1 13-08-2019 21:39:06 MAJOR: null: Loading language: en_us
+7.2.1 13-08-2019 21:39:07 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 17:48:30 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 17:49:19 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 17:49:20 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 19:04:33 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 19:05:22 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 19:05:23 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 19:15:42 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 19:16:31 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 19:16:32 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 20:21:49 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 20:23:26 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 20:23:28 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 20:53:37 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 20:54:26 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 20:54:27 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 21:14:58 Error when checking version:
+7.2.1 14-08-2019 21:14:58 java.net.UnknownHostException: millenaire.org
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:206)
+
+7.2.1 14-08-2019 21:17:06 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 21:18:10 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 21:18:11 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 21:19:56 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 21:20:51 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 21:20:52 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 21:22:47 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 21:23:35 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 21:23:36 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 21:25:51 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 21:26:41 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 21:26:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 21:28:43 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 21:29:34 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 21:29:35 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 21:31:01 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 21:31:53 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 21:31:54 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-08-2019 22:29:37 Starting new session. Mods: examplemod 
+7.2.1 14-08-2019 22:30:31 MAJOR: null: Loading language: en_us
+7.2.1 14-08-2019 22:30:32 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-08-2019 18:30:43 Starting new session. Mods: examplemod 
+7.2.1 15-08-2019 18:31:34 MAJOR: null: Loading language: en_us
+7.2.1 15-08-2019 18:31:35 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-08-2019 18:33:29 Starting new session. Mods: examplemod 
+7.2.1 15-08-2019 18:34:16 MAJOR: null: Loading language: en_us
+7.2.1 15-08-2019 18:34:17 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-08-2019 18:41:44 Starting new session. Mods: examplemod 
+7.2.1 15-08-2019 18:42:33 MAJOR: null: Loading language: en_us
+7.2.1 15-08-2019 18:42:34 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-08-2019 18:47:27 Starting new session. Mods: examplemod 
+7.2.1 15-08-2019 18:48:13 MAJOR: null: Loading language: en_us
+7.2.1 15-08-2019 18:48:14 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-08-2019 18:50:23 Error when checking version:
+7.2.1 15-08-2019 18:50:23 java.net.UnknownHostException: millenaire.org
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:206)
+
+7.2.1 15-08-2019 20:53:33 Starting new session. Mods: examplemod 
+7.2.1 15-08-2019 20:54:28 MAJOR: null: Loading language: en_us
+7.2.1 15-08-2019 20:54:30 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-08-2019 20:57:18 Error when checking version:
+7.2.1 15-08-2019 20:57:18 java.net.UnknownHostException: millenaire.org
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:206)
+
+7.2.1 15-08-2019 21:06:18 Starting new session. Mods: examplemod 
+7.2.1 15-08-2019 21:07:05 MAJOR: null: Loading language: en_us
+7.2.1 15-08-2019 21:07:06 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-08-2019 21:09:34 Error when checking version:
+7.2.1 15-08-2019 21:09:34 java.net.UnknownHostException: millenaire.org
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:206)
+
+7.2.1 17-08-2019 06:07:15 Starting new session. Mods: examplemod 
+7.2.1 17-08-2019 06:08:10 MAJOR: null: Loading language: en_us
+7.2.1 17-08-2019 06:08:11 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 19-08-2019 17:20:58 Starting new session. Mods: examplemod 
+7.2.1 19-08-2019 17:21:51 MAJOR: null: Loading language: en_us
+7.2.1 19-08-2019 17:21:52 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 19-08-2019 17:29:59 Starting new session. Mods: examplemod 
+7.2.1 19-08-2019 17:30:57 MAJOR: null: Loading language: en_us
+7.2.1 19-08-2019 17:30:58 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 19-08-2019 17:41:13 ERROR: Shobha Beriya/indian_girl/6274806924632525925/808/63/-427: Villager is far away from village. Despawning him.
+7.2.1 19-08-2019 17:48:45 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@64144ed1: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@6ad3bdfb
+7.2.1 19-08-2019 17:48:45 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@3198657e: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@3f5f8ce5
+7.2.1 15-09-2019 16:37:32 Starting new session. Mods: examplemod 
+7.2.1 15-09-2019 16:38:27 MAJOR: null: Loading language: en_us
+7.2.1 15-09-2019 16:38:28 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-09-2019 19:24:01 Starting new session. Mods: examplemod 
+7.2.1 15-09-2019 19:24:57 MAJOR: null: Loading language: en_us
+7.2.1 15-09-2019 19:24:58 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 17-09-2019 21:07:23 Starting new session. Mods: examplemod 
+7.2.1 17-09-2019 21:08:12 MAJOR: null: Loading language: en_us
+7.2.1 17-09-2019 21:08:13 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 18-09-2019 22:15:50 Starting new session. Mods: examplemod 
+7.2.1 18-09-2019 22:16:41 MAJOR: null: Loading language: en_us
+7.2.1 18-09-2019 22:16:43 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 18-09-2019 22:49:25 Starting new session. Mods: examplemod 
+7.2.1 18-09-2019 22:50:22 MAJOR: null: Loading language: en_us
+7.2.1 18-09-2019 22:50:23 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 19-09-2019 19:01:15 Starting new session. Mods: examplemod 
+7.2.1 19-09-2019 19:02:10 MAJOR: null: Loading language: en_us
+7.2.1 19-09-2019 19:02:11 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 10:07:47 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 10:12:18 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 10:12:27 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 10:12:29 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 10:14:03 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 10:14:06 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 19:35:47 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 19:36:43 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 19:36:44 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 19:39:07 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 19:40:00 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 19:40:02 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 19:43:49 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 19:44:41 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 19:44:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 19:51:50 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 19:52:45 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 19:52:46 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 20:03:22 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 20:04:25 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 20:04:26 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 20:26:02 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 20:27:24 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 20:27:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 20:41:41 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 20:42:32 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 20:42:33 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 21:00:08 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 21:01:00 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 21:01:01 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-09-2019 21:03:01 Starting new session. Mods: examplemod 
+7.2.1 20-09-2019 21:03:52 MAJOR: null: Loading language: en_us
+7.2.1 20-09-2019 21:03:53 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-09-2019 17:24:25 Starting new session. Mods: examplemod 
+7.2.1 21-09-2019 17:25:24 MAJOR: null: Loading language: en_us
+7.2.1 21-09-2019 17:25:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-09-2019 17:57:21 Exception when finding JPS path:
+7.2.1 21-09-2019 17:57:21 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at -316/-558.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 22-09-2019 18:13:03 Starting new session. Mods: examplemod 
+7.2.1 22-09-2019 18:14:02 MAJOR: null: Loading language: en_us
+7.2.1 22-09-2019 18:14:03 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 22-09-2019 19:10:28 Starting new session. Mods: examplemod 
+7.2.1 22-09-2019 19:11:38 MAJOR: null: Loading language: en_us
+7.2.1 22-09-2019 19:11:39 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 24-09-2019 13:37:13 Starting new session. Mods: examplemod 
+7.2.1 24-09-2019 13:38:06 MAJOR: null: Loading language: en_us
+7.2.1 24-09-2019 13:38:08 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-09-2019 20:46:41 Starting new session. Mods: examplemod 
+7.2.1 26-09-2019 20:47:44 MAJOR: null: Loading language: en_us
+7.2.1 26-09-2019 20:47:45 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-09-2019 21:57:18 Error in ClientReceiver.onPacketData:
+7.2.1 26-09-2019 21:57:18 java.lang.NullPointerException
+	at org.millenaire.common.network.ServerSender.sendChat(ServerSender.java:336)
+	at org.millenaire.common.world.UserProfile.showNewWorldMessage(UserProfile.java:1291)
+	at org.millenaire.common.world.UserProfile.receiveProfilePacket(UserProfile.java:965)
+	at org.millenaire.client.network.ClientReceiver.processPacket(ClientReceiver.java:111)
+	at org.millenaire.client.network.ClientReceiver.access$000(ClientReceiver.java:40)
+	at org.millenaire.client.network.ClientReceiver$1.run(ClientReceiver.java:72)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at net.minecraft.util.Util.func_181617_a(Util.java:47)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1088)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.2.1 28-09-2019 20:20:55 Starting new session. Mods: examplemod 
+7.2.1 28-09-2019 20:21:57 MAJOR: null: Loading language: en_us
+7.2.1 28-09-2019 20:21:58 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 28-09-2019 20:56:38 Error in ClientReceiver.onPacketData:
+7.2.1 28-09-2019 20:56:38 java.lang.NullPointerException
+	at org.millenaire.common.network.ServerSender.sendChat(ServerSender.java:336)
+	at org.millenaire.common.world.UserProfile.showNewWorldMessage(UserProfile.java:1291)
+	at org.millenaire.common.world.UserProfile.receiveProfilePacket(UserProfile.java:965)
+	at org.millenaire.client.network.ClientReceiver.processPacket(ClientReceiver.java:111)
+	at org.millenaire.client.network.ClientReceiver.access$000(ClientReceiver.java:40)
+	at org.millenaire.client.network.ClientReceiver$1.run(ClientReceiver.java:72)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at net.minecraft.util.Util.func_181617_a(Util.java:47)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1088)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.2.1 28-09-2019 21:16:39 Error in ClientReceiver.onPacketData:
+7.2.1 28-09-2019 21:16:39 java.lang.NullPointerException
+	at org.millenaire.common.network.ServerSender.sendChat(ServerSender.java:336)
+	at org.millenaire.common.world.UserProfile.showNewWorldMessage(UserProfile.java:1291)
+	at org.millenaire.common.world.UserProfile.receiveProfilePacket(UserProfile.java:965)
+	at org.millenaire.client.network.ClientReceiver.processPacket(ClientReceiver.java:111)
+	at org.millenaire.client.network.ClientReceiver.access$000(ClientReceiver.java:40)
+	at org.millenaire.client.network.ClientReceiver$1.run(ClientReceiver.java:72)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at net.minecraft.util.Util.func_181617_a(Util.java:47)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1088)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.2.1 30-09-2019 15:07:28 Starting new session. Mods: examplemod 
+7.2.1 30-09-2019 15:08:23 MAJOR: null: Loading language: en_us
+7.2.1 30-09-2019 15:08:24 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 30-09-2019 15:30:57 Error in ClientReceiver.onPacketData:
+7.2.1 30-09-2019 15:30:57 java.lang.NullPointerException
+	at org.millenaire.common.network.ServerSender.sendChat(ServerSender.java:336)
+	at org.millenaire.common.world.UserProfile.showNewWorldMessage(UserProfile.java:1291)
+	at org.millenaire.common.world.UserProfile.receiveProfilePacket(UserProfile.java:965)
+	at org.millenaire.client.network.ClientReceiver.processPacket(ClientReceiver.java:111)
+	at org.millenaire.client.network.ClientReceiver.access$000(ClientReceiver.java:40)
+	at org.millenaire.client.network.ClientReceiver$1.run(ClientReceiver.java:72)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at net.minecraft.util.Util.func_181617_a(Util.java:47)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1088)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.2.1 30-09-2019 15:51:11 Error in ClientReceiver.onPacketData:
+7.2.1 30-09-2019 15:51:11 java.lang.NullPointerException
+	at org.millenaire.common.network.ServerSender.sendChat(ServerSender.java:336)
+	at org.millenaire.common.world.UserProfile.showNewWorldMessage(UserProfile.java:1291)
+	at org.millenaire.common.world.UserProfile.receiveProfilePacket(UserProfile.java:965)
+	at org.millenaire.client.network.ClientReceiver.processPacket(ClientReceiver.java:111)
+	at org.millenaire.client.network.ClientReceiver.access$000(ClientReceiver.java:40)
+	at org.millenaire.client.network.ClientReceiver$1.run(ClientReceiver.java:72)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at net.minecraft.util.Util.func_181617_a(Util.java:47)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1088)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.2.1 01-10-2019 13:17:44 Starting new session. Mods: examplemod 
+7.2.1 01-10-2019 13:18:41 MAJOR: null: Loading language: en_us
+7.2.1 01-10-2019 13:18:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-10-2019 15:11:24 Starting new session. Mods: examplemod 
+7.2.1 02-10-2019 15:12:30 MAJOR: null: Loading language: en_us
+7.2.1 02-10-2019 15:12:31 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-10-2019 15:21:57 Starting new session. Mods: examplemod 
+7.2.1 02-10-2019 15:22:56 MAJOR: null: Loading language: en_us
+7.2.1 02-10-2019 15:22:57 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-10-2019 16:07:38 Error in ClientReceiver.onPacketData:
+7.2.1 02-10-2019 16:07:38 java.lang.NullPointerException
+	at org.millenaire.common.network.ServerSender.sendChat(ServerSender.java:336)
+	at org.millenaire.common.world.UserProfile.showNewWorldMessage(UserProfile.java:1291)
+	at org.millenaire.common.world.UserProfile.receiveProfilePacket(UserProfile.java:965)
+	at org.millenaire.client.network.ClientReceiver.processPacket(ClientReceiver.java:111)
+	at org.millenaire.client.network.ClientReceiver.access$000(ClientReceiver.java:40)
+	at org.millenaire.client.network.ClientReceiver$1.run(ClientReceiver.java:72)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at net.minecraft.util.Util.func_181617_a(Util.java:47)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1088)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.2.1 07-10-2019 15:14:38 Starting new session. Mods: examplemod 
+7.2.1 07-10-2019 15:15:38 MAJOR: null: Loading language: en_us
+7.2.1 07-10-2019 15:15:39 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 11-10-2019 17:28:14 Starting new session. Mods: examplemod 
+7.2.1 11-10-2019 17:29:05 MAJOR: null: Loading language: en_us
+7.2.1 11-10-2019 17:29:06 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 11-10-2019 19:11:42 Starting new session. Mods: examplemod 
+7.2.1 11-10-2019 19:12:42 MAJOR: null: Loading language: en_us
+7.2.1 11-10-2019 19:12:43 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 11-10-2019 20:21:27 Starting new session. Mods: examplemod 
+7.2.1 11-10-2019 20:22:27 MAJOR: null: Loading language: en_us
+7.2.1 11-10-2019 20:22:28 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-10-2019 17:33:51 Starting new session. Mods: examplemod 
+7.2.1 13-10-2019 17:34:53 MAJOR: null: Loading language: en_us
+7.2.1 13-10-2019 17:34:54 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-10-2019 20:20:36 Starting new session. Mods: examplemod 
+7.2.1 13-10-2019 20:21:33 MAJOR: null: Loading language: en_us
+7.2.1 13-10-2019 20:21:34 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-10-2019 20:23:39 Error when checking version:
+7.2.1 13-10-2019 20:23:39 java.net.UnknownHostException: millenaire.org
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at org.millenaire.common.utilities.MillCommonUtilities$VersionCheckThread.run(MillCommonUtilities.java:206)
+
+7.2.1 13-10-2019 21:31:44 Exception when finding JPS path:
+7.2.1 13-10-2019 21:31:44 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 723/-45.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 15-10-2019 13:31:11 Starting new session. Mods: examplemod 
+7.2.1 15-10-2019 13:32:04 MAJOR: null: Loading language: en_us
+7.2.1 15-10-2019 13:32:05 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-10-2019 14:38:29 Starting new session. Mods: examplemod 
+7.2.1 15-10-2019 14:39:23 MAJOR: null: Loading language: en_us
+7.2.1 15-10-2019 14:39:24 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 16-10-2019 21:50:19 Starting new session. Mods: examplemod 
+7.2.1 16-10-2019 21:51:59 MAJOR: null: Loading language: en_us
+7.2.1 16-10-2019 21:52:01 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 17-10-2019 17:21:28 Starting new session. Mods: examplemod 
+7.2.1 17-10-2019 17:22:26 MAJOR: null: Loading language: en_us
+7.2.1 17-10-2019 17:22:27 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 17-10-2019 17:28:58 Error in ClientReceiver.onPacketData:
+7.2.1 17-10-2019 17:28:58 java.lang.NullPointerException
+	at org.millenaire.common.network.ServerSender.sendChat(ServerSender.java:336)
+	at org.millenaire.common.world.UserProfile.showNewWorldMessage(UserProfile.java:1291)
+	at org.millenaire.common.world.UserProfile.receiveProfilePacket(UserProfile.java:965)
+	at org.millenaire.client.network.ClientReceiver.processPacket(ClientReceiver.java:111)
+	at org.millenaire.client.network.ClientReceiver.access$000(ClientReceiver.java:40)
+	at org.millenaire.client.network.ClientReceiver$1.run(ClientReceiver.java:72)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at net.minecraft.util.Util.func_181617_a(Util.java:47)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1088)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+7.2.1 17-10-2019 17:38:33 Starting new session. Mods: examplemod 
+7.2.1 17-10-2019 17:39:34 MAJOR: null: Loading language: en_us
+7.2.1 17-10-2019 17:39:35 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 17-10-2019 20:57:14 Starting new session. Mods: examplemod 
+7.2.1 17-10-2019 20:58:14 MAJOR: null: Loading language: en_us
+7.2.1 17-10-2019 20:58:15 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 18-10-2019 20:32:35 Starting new session. Mods: examplemod 
+7.2.1 18-10-2019 20:33:29 MAJOR: null: Loading language: en_us
+7.2.1 18-10-2019 20:33:30 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 18-10-2019 23:19:24 Starting new session. Mods: examplemod 
+7.2.1 18-10-2019 23:20:21 MAJOR: null: Loading language: en_us
+7.2.1 18-10-2019 23:20:22 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 19-10-2019 19:58:25 Starting new session. Mods: examplemod 
+7.2.1 19-10-2019 19:59:17 MAJOR: null: Loading language: en_us
+7.2.1 19-10-2019 19:59:18 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-10-2019 12:41:03 Starting new session. Mods: examplemod 
+7.2.1 20-10-2019 12:42:41 MAJOR: null: Loading language: en_us
+7.2.1 20-10-2019 12:42:43 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-10-2019 19:04:44 Starting new session. Mods: examplemod 
+7.2.1 21-10-2019 19:05:36 MAJOR: null: Loading language: en_us
+7.2.1 21-10-2019 19:05:37 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-10-2019 19:12:11 Starting new session. Mods: examplemod 
+7.2.1 21-10-2019 19:13:06 MAJOR: null: Loading language: en_us
+7.2.1 21-10-2019 19:13:07 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-10-2019 22:01:35 Starting new session. Mods: examplemod 
+7.2.1 21-10-2019 22:02:27 MAJOR: null: Loading language: en_us
+7.2.1 21-10-2019 22:02:28 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-10-2019 22:05:47 Starting new session. Mods: examplemod 
+7.2.1 21-10-2019 22:06:44 MAJOR: null: Loading language: en_us
+7.2.1 21-10-2019 22:06:45 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 22-10-2019 18:43:01 Starting new session. Mods: examplemod 
+7.2.1 22-10-2019 18:44:53 MAJOR: null: Loading language: en_us
+7.2.1 22-10-2019 18:44:56 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 22-10-2019 20:14:54 Starting new session. Mods: examplemod 
+7.2.1 22-10-2019 20:15:52 MAJOR: null: Loading language: en_us
+7.2.1 22-10-2019 20:15:53 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 22-10-2019 20:54:23 Starting new session. Mods: examplemod 
+7.2.1 22-10-2019 20:55:15 MAJOR: null: Loading language: en_us
+7.2.1 22-10-2019 20:55:16 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 17:07:59 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 17:08:55 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 17:08:57 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 17:11:31 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 17:12:25 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 17:12:26 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 17:22:30 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 17:23:28 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 17:23:29 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 17:31:23 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 17:32:21 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 17:32:22 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 17:35:57 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 17:36:54 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 17:36:55 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 19:10:27 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 19:11:22 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 19:11:23 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 19:16:10 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 19:17:03 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 19:17:04 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 19:27:22 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 19:28:17 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 19:28:18 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 19:29:19 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 19:30:28 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 19:30:29 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 19:31:38 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 19:32:35 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 19:32:36 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 21:00:11 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 21:01:08 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 21:01:09 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-10-2019 22:08:41 Starting new session. Mods: examplemod 
+7.2.1 23-10-2019 22:09:43 MAJOR: null: Loading language: en_us
+7.2.1 23-10-2019 22:09:45 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 24-10-2019 17:11:37 Starting new session. Mods: examplemod 
+7.2.1 24-10-2019 17:12:34 MAJOR: null: Loading language: en_us
+7.2.1 24-10-2019 17:12:35 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 24-10-2019 17:18:51 Starting new session. Mods: examplemod 
+7.2.1 24-10-2019 17:19:46 MAJOR: null: Loading language: en_us
+7.2.1 24-10-2019 17:19:47 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 24-10-2019 21:54:23 Starting new session. Mods: examplemod 
+7.2.1 24-10-2019 21:55:29 MAJOR: null: Loading language: en_us
+7.2.1 24-10-2019 21:55:30 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 25-10-2019 16:59:39 Starting new session. Mods: examplemod 
+7.2.1 25-10-2019 17:00:32 MAJOR: null: Loading language: en_us
+7.2.1 25-10-2019 17:00:33 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 25-10-2019 20:12:46 Starting new session. Mods: examplemod 
+7.2.1 25-10-2019 20:13:41 MAJOR: null: Loading language: en_us
+7.2.1 25-10-2019 20:13:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 25-10-2019 20:20:09 Starting new session. Mods: examplemod 
+7.2.1 25-10-2019 20:21:11 MAJOR: null: Loading language: en_us
+7.2.1 25-10-2019 20:21:12 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 25-10-2019 20:39:29 Starting new session. Mods: examplemod 
+7.2.1 25-10-2019 20:40:27 MAJOR: null: Loading language: en_us
+7.2.1 25-10-2019 20:40:28 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-10-2019 15:13:33 Starting new session. Mods: examplemod 
+7.2.1 26-10-2019 15:14:37 MAJOR: null: Loading language: en_us
+7.2.1 26-10-2019 15:14:38 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-10-2019 19:14:10 Starting new session. Mods: examplemod 
+7.2.1 26-10-2019 19:15:17 MAJOR: null: Loading language: en_us
+7.2.1 26-10-2019 19:15:19 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-10-2019 19:36:21 Starting new session. Mods: examplemod 
+7.2.1 26-10-2019 19:37:16 MAJOR: null: Loading language: en_us
+7.2.1 26-10-2019 19:37:17 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-10-2019 19:42:31 Exception when finding JPS path:
+7.2.1 26-10-2019 19:42:31 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 785/-123.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:431)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2321)
+	at net.minecraft.world.World.func_72866_a(World.java:1993)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1955)
+	at net.minecraft.world.World.func_72939_s(World.java:1759)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+7.2.1 26-10-2019 19:42:31 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@5046a44c: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@5e8141ec
+7.2.1 27-10-2019 20:21:40 Starting new session. Mods: examplemod 
+7.2.1 27-10-2019 20:22:41 MAJOR: null: Loading language: en_us
+7.2.1 27-10-2019 20:22:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 28-10-2019 17:50:49 Starting new session. Mods: examplemod 
+7.2.1 28-10-2019 17:51:46 MAJOR: null: Loading language: en_us
+7.2.1 28-10-2019 17:51:48 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 28-10-2019 17:56:58 Starting new session. Mods: examplemod 
+7.2.1 28-10-2019 17:57:51 MAJOR: null: Loading language: en_us
+7.2.1 28-10-2019 17:57:52 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 28-10-2019 18:07:55 Starting new session. Mods: examplemod 
+7.2.1 28-10-2019 18:08:50 MAJOR: null: Loading language: en_us
+7.2.1 28-10-2019 18:08:51 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 29-10-2019 20:16:10 Starting new session. Mods: examplemod 
+7.2.1 29-10-2019 20:17:09 MAJOR: null: Loading language: en_us
+7.2.1 29-10-2019 20:17:10 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 30-10-2019 19:59:47 Starting new session. Mods: examplemod 
+7.2.1 30-10-2019 20:00:50 MAJOR: null: Loading language: en_us
+7.2.1 30-10-2019 20:00:51 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 30-10-2019 22:40:13 Starting new session. Mods: examplemod 
+7.2.1 30-10-2019 22:41:21 MAJOR: null: Loading language: en_us
+7.2.1 30-10-2019 22:41:22 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 30-10-2019 22:55:13 Starting new session. Mods: examplemod 
+7.2.1 30-10-2019 22:56:10 MAJOR: null: Loading language: en_us
+7.2.1 30-10-2019 22:56:11 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 30-10-2019 23:02:16 Starting new session. Mods: examplemod 
+7.2.1 30-10-2019 23:03:09 MAJOR: null: Loading language: en_us
+7.2.1 30-10-2019 23:03:10 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 31-10-2019 09:08:03 Starting new session. Mods: examplemod 
+7.2.1 31-10-2019 09:09:02 MAJOR: null: Loading language: en_us
+7.2.1 31-10-2019 09:09:03 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 31-10-2019 13:12:29 Starting new session. Mods: examplemod 
+7.2.1 31-10-2019 13:13:29 MAJOR: null: Loading language: en_us
+7.2.1 31-10-2019 13:13:30 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 31-10-2019 17:28:41 Starting new session. Mods: examplemod 
+7.2.1 31-10-2019 17:29:37 MAJOR: null: Loading language: en_us
+7.2.1 31-10-2019 17:29:38 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 31-10-2019 20:03:06 Starting new session. Mods: examplemod 
+7.2.1 31-10-2019 20:04:07 MAJOR: null: Loading language: en_us
+7.2.1 31-10-2019 20:04:08 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 31-10-2019 23:13:23 Starting new session. Mods: examplemod 
+7.2.1 31-10-2019 23:15:06 MAJOR: null: Loading language: en_us
+7.2.1 31-10-2019 23:15:09 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 01-11-2019 17:51:27 Starting new session. Mods: examplemod 
+7.2.1 01-11-2019 17:52:35 MAJOR: null: Loading language: en_us
+7.2.1 01-11-2019 17:52:36 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-11-2019 20:28:57 Starting new session. Mods: examplemod 
+7.2.1 03-11-2019 20:29:50 MAJOR: null: Loading language: en_us
+7.2.1 03-11-2019 20:29:51 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-11-2019 20:44:28 Starting new session. Mods: examplemod 
+7.2.1 03-11-2019 20:45:26 MAJOR: null: Loading language: en_us
+7.2.1 03-11-2019 20:45:27 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-11-2019 21:19:12 Starting new session. Mods: examplemod 
+7.2.1 03-11-2019 21:20:06 MAJOR: null: Loading language: en_us
+7.2.1 03-11-2019 21:20:07 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-11-2019 22:31:20 Starting new session. Mods: examplemod 
+7.2.1 03-11-2019 22:32:24 MAJOR: null: Loading language: en_us
+7.2.1 03-11-2019 22:32:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-11-2019 22:36:01 ERROR: org.millenaire.client.network.ClientReceiver@32b3a0f9: Received a packet despite null clientWorld.
+7.2.1 03-11-2019 22:36:01 ERROR: org.millenaire.client.network.ClientReceiver@32b3a0f9: Received a packet despite null clientWorld.
+7.2.1 03-11-2019 22:36:01 ERROR: org.millenaire.client.network.ClientReceiver@32b3a0f9: Received a packet despite null clientWorld.
+7.2.1 03-11-2019 22:36:01 ERROR: org.millenaire.client.network.ClientReceiver@32b3a0f9: Received a packet despite null clientWorld.
+7.2.1 03-11-2019 22:36:01 ERROR: org.millenaire.client.network.ClientReceiver@32b3a0f9: Received a packet despite null clientWorld.
+7.2.1 03-11-2019 22:36:01 ERROR: org.millenaire.client.network.ClientReceiver@32b3a0f9: Received a packet despite null clientWorld.
+7.2.1 03-11-2019 22:36:01 ERROR: org.millenaire.client.network.ClientReceiver@32b3a0f9: Received a packet despite null clientWorld.
+7.2.1 03-11-2019 22:36:01 ERROR: org.millenaire.client.network.ClientReceiver@32b3a0f9: Received a packet despite null clientWorld.
+7.2.1 03-11-2019 22:37:14 Starting new session. Mods: examplemod 
+7.2.1 03-11-2019 22:38:10 MAJOR: null: Loading language: en_us
+7.2.1 03-11-2019 22:38:11 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-11-2019 18:37:03 Starting new session. Mods: examplemod 
+7.2.1 04-11-2019 18:37:58 MAJOR: null: Loading language: en_us
+7.2.1 04-11-2019 18:37:59 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-11-2019 18:39:46 Starting new session. Mods: examplemod 
+7.2.1 04-11-2019 18:40:41 MAJOR: null: Loading language: en_us
+7.2.1 04-11-2019 18:40:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-11-2019 18:44:44 Starting new session. Mods: examplemod 
+7.2.1 04-11-2019 18:45:43 MAJOR: null: Loading language: en_us
+7.2.1 04-11-2019 18:45:44 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-11-2019 18:49:04 Starting new session. Mods: examplemod 
+7.2.1 04-11-2019 18:49:54 MAJOR: null: Loading language: en_us
+7.2.1 04-11-2019 18:49:55 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-11-2019 18:55:25 Starting new session. Mods: examplemod 
+7.2.1 04-11-2019 18:56:30 MAJOR: null: Loading language: en_us
+7.2.1 04-11-2019 18:56:31 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-11-2019 23:41:43 Starting new session. Mods: examplemod 
+7.2.1 04-11-2019 23:42:52 MAJOR: null: Loading language: en_us
+7.2.1 04-11-2019 23:42:53 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-11-2019 17:12:46 Starting new session. Mods: examplemod 
+7.2.1 05-11-2019 17:14:28 MAJOR: null: Loading language: en_us
+7.2.1 05-11-2019 17:14:29 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-11-2019 17:30:15 Starting new session. Mods: examplemod 
+7.2.1 05-11-2019 17:31:16 MAJOR: null: Loading language: en_us
+7.2.1 05-11-2019 17:31:17 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-11-2019 20:23:13 Starting new session. Mods: examplemod 
+7.2.1 05-11-2019 20:24:14 MAJOR: null: Loading language: en_us
+7.2.1 05-11-2019 20:24:15 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 18-11-2019 10:41:12 Starting new session. Mods: examplemod 
+7.2.1 18-11-2019 10:42:51 MAJOR: null: Loading language: en_us
+7.2.1 18-11-2019 10:42:53 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-11-2019 22:29:53 Starting new session. Mods: examplemod 
+7.2.1 23-11-2019 22:30:46 MAJOR: null: Loading language: en_us
+7.2.1 23-11-2019 22:30:47 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 28-12-2019 03:51:08 Starting new session. Mods: examplemod 
+7.2.1 28-12-2019 03:52:12 MAJOR: null: Loading language: en_us
+7.2.1 28-12-2019 03:52:13 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 17-01-2020 19:01:36 Starting new session. Mods: examplemod 
+7.2.1 17-01-2020 19:02:54 MAJOR: null: Loading language: en_us
+7.2.1 17-01-2020 19:02:55 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 22-01-2020 21:36:51 Starting new session. Mods: examplemod 
+7.2.1 22-01-2020 21:38:01 MAJOR: null: Loading language: en_us
+7.2.1 22-01-2020 21:38:02 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 22-01-2020 21:53:43 Starting new session. Mods: examplemod 
+7.2.1 22-01-2020 22:02:08 Starting new session. Mods: examplemod 
+7.2.1 22-01-2020 22:05:36 Starting new session. Mods: examplemod 
+7.2.1 22-01-2020 22:06:30 MAJOR: null: Loading language: en_us
+7.2.1 22-01-2020 22:06:30 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-01-2020 18:44:45 Starting new session. Mods: examplemod 
+7.2.1 23-01-2020 18:46:07 MAJOR: null: Loading language: en_us
+7.2.1 23-01-2020 18:46:08 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-01-2020 18:48:24 Starting new session. Mods: examplemod 
+7.2.1 23-01-2020 18:49:24 MAJOR: null: Loading language: en_us
+7.2.1 23-01-2020 18:49:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 25-01-2020 11:01:01 Starting new session. Mods: examplemod 
+7.2.1 25-01-2020 11:02:02 MAJOR: null: Loading language: en_us
+7.2.1 25-01-2020 11:02:03 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-01-2020 11:09:32 Starting new session. Mods: examplemod 
+7.2.1 26-01-2020 11:10:38 MAJOR: null: Loading language: en_us
+7.2.1 26-01-2020 11:10:39 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-01-2020 11:14:05 Starting new session. Mods: examplemod 
+7.2.1 26-01-2020 11:15:17 MAJOR: null: Loading language: en_us
+7.2.1 26-01-2020 11:15:18 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-01-2020 11:17:08 Starting new session. Mods: examplemod 
+7.2.1 26-01-2020 11:18:11 MAJOR: null: Loading language: en_us
+7.2.1 26-01-2020 11:18:12 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 28-01-2020 23:04:57 Starting new session. Mods: examplemod 
+7.2.1 28-01-2020 23:06:48 MAJOR: null: Loading language: en_us
+7.2.1 28-01-2020 23:06:49 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 29-01-2020 19:51:53 Starting new session. Mods: examplemod 
+7.2.1 29-01-2020 19:56:04 Starting new session. Mods: examplemod 
+7.2.1 29-01-2020 19:58:05 MAJOR: null: Loading language: en_us
+7.2.1 29-01-2020 19:58:07 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 29-01-2020 22:24:27 Starting new session. Mods: examplemod 
+7.2.1 29-01-2020 22:25:24 MAJOR: null: Loading language: en_us
+7.2.1 29-01-2020 22:25:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-02-2020 03:28:00 Starting new session. Mods: examplemod 
+7.2.1 02-02-2020 03:29:02 MAJOR: null: Loading language: en_us
+7.2.1 02-02-2020 03:29:03 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-02-2020 12:30:12 Starting new session. Mods: examplemod 
+7.2.1 02-02-2020 12:31:17 MAJOR: null: Loading language: en_us
+7.2.1 02-02-2020 12:31:18 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-02-2020 01:44:44 Starting new session. Mods: examplemod 
+7.2.1 03-02-2020 01:45:52 MAJOR: null: Loading language: en_us
+7.2.1 03-02-2020 01:45:53 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 03-02-2020 02:03:54 Starting new session. Mods: examplemod 
+7.2.1 03-02-2020 02:05:45 Starting new session. Mods: examplemod 
+7.2.1 03-02-2020 02:06:44 MAJOR: null: Loading language: en_us
+7.2.1 03-02-2020 02:06:44 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 04-02-2020 02:08:07 Starting new session. Mods: examplemod 
+7.2.1 04-02-2020 02:09:29 MAJOR: null: Loading language: en_us
+7.2.1 04-02-2020 02:09:30 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-02-2020 00:00:56 Starting new session. Mods: examplemod 
+7.2.1 05-02-2020 00:02:12 MAJOR: null: Loading language: en_us
+7.2.1 05-02-2020 00:02:12 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-02-2020 20:44:24 Starting new session. Mods: examplemod 
+7.2.1 05-02-2020 20:45:22 MAJOR: null: Loading language: en_us
+7.2.1 05-02-2020 20:45:23 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 05-02-2020 22:09:00 Starting new session. Mods: examplemod 
+7.2.1 05-02-2020 22:10:27 MAJOR: null: Loading language: en_us
+7.2.1 05-02-2020 22:10:28 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 07-02-2020 02:12:48 Starting new session. Mods: examplemod 
+7.2.1 07-02-2020 02:13:52 MAJOR: null: Loading language: en_us
+7.2.1 07-02-2020 02:13:53 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 06-02-2020 22:25:51 Starting new session. Mods: examplemod 
+7.2.1 06-02-2020 22:26:56 MAJOR: null: Loading language: en_us
+7.2.1 06-02-2020 22:26:57 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 10-02-2020 00:10:16 Starting new session. Mods: examplemod 
+7.2.1 10-02-2020 00:11:14 MAJOR: null: Loading language: en_us
+7.2.1 10-02-2020 00:11:15 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 10-02-2020 01:43:09 Starting new session. Mods: examplemod 
+7.2.1 10-02-2020 01:44:06 MAJOR: null: Loading language: en_us
+7.2.1 10-02-2020 01:44:07 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-02-2020 02:18:29 Starting new session. Mods: examplemod 
+7.2.1 13-02-2020 02:19:36 MAJOR: null: Loading language: en_us
+7.2.1 13-02-2020 02:19:37 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-02-2020 18:30:30 Starting new session. Mods: examplemod 
+7.2.1 13-02-2020 18:31:33 MAJOR: null: Loading language: en_us
+7.2.1 13-02-2020 18:31:33 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-02-2020 23:11:47 Starting new session. Mods: examplemod 
+7.2.1 13-02-2020 23:12:46 MAJOR: null: Loading language: en_us
+7.2.1 13-02-2020 23:12:47 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-02-2020 22:33:10 Starting new session. Mods: examplemod 
+7.2.1 14-02-2020 22:35:07 MAJOR: null: Loading language: en_us
+7.2.1 14-02-2020 22:35:09 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 14-02-2020 22:38:28 Starting new session. Mods: examplemod 
+7.2.1 14-02-2020 22:39:35 MAJOR: null: Loading language: en_us
+7.2.1 14-02-2020 22:39:36 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 15-02-2020 11:31:02 Starting new session. Mods: examplemod 
+7.2.1 15-02-2020 11:32:10 MAJOR: null: Loading language: en_us
+7.2.1 15-02-2020 11:32:11 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 22-02-2020 03:47:11 Starting new session. Mods: examplemod 
+7.2.1 22-02-2020 03:48:11 MAJOR: null: Loading language: en_us
+7.2.1 22-02-2020 03:48:11 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 23-02-2020 17:02:30 Starting new session. Mods: examplemod 
+7.2.1 23-02-2020 17:03:38 MAJOR: null: Loading language: en_us
+7.2.1 23-02-2020 17:03:39 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-02-2020 00:47:54 Starting new session. Mods: examplemod 
+7.2.1 26-02-2020 00:48:55 MAJOR: null: Loading language: en_us
+7.2.1 26-02-2020 00:48:56 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 26-02-2020 02:07:32 Starting new session. Mods: examplemod 
+7.2.1 26-02-2020 02:08:35 MAJOR: null: Loading language: en_us
+7.2.1 26-02-2020 02:08:36 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 02-03-2020 01:34:23 Starting new session. Mods: examplemod 
+7.2.1 02-03-2020 01:35:30 MAJOR: null: Loading language: en_us
+7.2.1 02-03-2020 01:35:31 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 06-03-2020 00:02:49 Starting new session. Mods: examplemod 
+7.2.1 06-03-2020 00:03:49 MAJOR: null: Loading language: en_us
+7.2.1 06-03-2020 00:03:50 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 07-03-2020 00:23:50 Starting new session. Mods: examplemod 
+7.2.1 07-03-2020 00:24:51 MAJOR: null: Loading language: en_us
+7.2.1 07-03-2020 00:24:52 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 07-03-2020 03:27:00 Starting new session. Mods: examplemod 
+7.2.1 07-03-2020 03:28:02 MAJOR: null: Loading language: en_us
+7.2.1 07-03-2020 03:28:03 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 08-03-2020 04:34:29 Starting new session. Mods: examplemod 
+7.2.1 08-03-2020 04:35:28 MAJOR: null: Loading language: en_us
+7.2.1 08-03-2020 04:35:29 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 08-03-2020 04:37:12 Starting new session. Mods: examplemod 
+7.2.1 08-03-2020 04:38:15 MAJOR: null: Loading language: en_us
+7.2.1 08-03-2020 04:38:15 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 10-03-2020 01:46:22 Starting new session. Mods: examplemod 
+7.2.1 10-03-2020 01:47:28 MAJOR: null: Loading language: en_us
+7.2.1 10-03-2020 01:47:28 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 11-03-2020 02:19:41 Starting new session. Mods: examplemod 
+7.2.1 11-03-2020 02:20:50 MAJOR: null: Loading language: en_us
+7.2.1 11-03-2020 02:20:51 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 11-03-2020 04:04:34 Starting new session. Mods: examplemod 
+7.2.1 11-03-2020 04:05:41 MAJOR: null: Loading language: en_us
+7.2.1 11-03-2020 04:05:42 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 11-03-2020 22:24:22 Starting new session. Mods: examplemod 
+7.2.1 11-03-2020 22:26:11 MAJOR: null: Loading language: en_us
+7.2.1 11-03-2020 22:26:12 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 12-03-2020 00:23:26 Starting new session. Mods: examplemod 
+7.2.1 12-03-2020 00:24:31 MAJOR: null: Loading language: en_us
+7.2.1 12-03-2020 00:24:32 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 12-03-2020 02:32:00 Starting new session. Mods: examplemod 
+7.2.1 12-03-2020 02:33:01 MAJOR: null: Loading language: en_us
+7.2.1 12-03-2020 02:33:02 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 13-03-2020 01:51:20 Starting new session. Mods: examplemod 
+7.2.1 13-03-2020 01:52:39 MAJOR: null: Loading language: en_us
+7.2.1 13-03-2020 01:52:40 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 19-03-2020 23:04:45 Starting new session. Mods: examplemod 
+7.2.1 19-03-2020 23:06:00 MAJOR: null: Loading language: en_us
+7.2.1 19-03-2020 23:06:01 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 19-03-2020 23:08:42 Starting new session. Mods: examplemod 
+7.2.1 19-03-2020 23:09:47 MAJOR: null: Loading language: en_us
+7.2.1 19-03-2020 23:09:48 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-03-2020 03:30:25 Starting new session. Mods: examplemod 
+7.2.1 20-03-2020 03:31:29 MAJOR: null: Loading language: en_us
+7.2.1 20-03-2020 03:31:30 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 20-03-2020 23:38:05 Starting new session. Mods: examplemod 
+7.2.1 20-03-2020 23:39:58 MAJOR: null: Loading language: en_us
+7.2.1 20-03-2020 23:39:59 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-03-2020 03:06:30 Starting new session. Mods: examplemod 
+7.2.1 21-03-2020 03:07:38 MAJOR: null: Loading language: en_us
+7.2.1 21-03-2020 03:07:38 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-03-2020 03:51:20 Starting new session. Mods: examplemod 
+7.2.1 21-03-2020 03:52:25 MAJOR: null: Loading language: en_us
+7.2.1 21-03-2020 03:52:26 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-03-2020 23:23:11 Starting new session. Mods: examplemod 
+7.2.1 21-03-2020 23:24:20 MAJOR: null: Loading language: en_us
+7.2.1 21-03-2020 23:24:21 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 21-03-2020 22:47:56 Starting new session. Mods: examplemod 
+7.2.1 21-03-2020 22:49:14 MAJOR: null: Loading language: en_us
+7.2.1 21-03-2020 22:49:15 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 22-03-2020 20:02:55 Starting new session. Mods: examplemod 
+7.2.1 22-03-2020 20:03:55 MAJOR: null: Loading language: en_us
+7.2.1 22-03-2020 20:03:56 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 24-03-2020 22:27:35 Starting new session. Mods: examplemod 
+7.2.1 24-03-2020 22:28:42 MAJOR: null: Loading language: en_us
+7.2.1 24-03-2020 22:28:43 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+7.2.1 25-03-2020 22:19:18 Starting new session. Mods: examplemod 
+7.2.1 25-03-2020 22:20:25 MAJOR: null: Loading language: en_us
+7.2.1 25-03-2020 22:20:26 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
